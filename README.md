@@ -1,5 +1,7 @@
 # Gestore di Libreria Personale
 
+Traccia: https://docs.google.com/document/d/1s6NYRgh_kZRcw7me8sZH1V8Yo75dlVyaIMZgaAIRp1w/edit?tab=t.0#heading=h.crkmgrqoootx
+
 **Overview**
 
 Questo progetto è stato sviluppato in Java come parte del corso di Ingegneria del Software presso l'Università della Calabria. L’applicazione consente di gestire una collezione personale di libri, permettendo all’utente di aggiungere, modificare, rimuovere, filtrare e ordinare libri in modo flessibile, con supporto alla persistenza dei dati e alle operazioni di undo/redo.
