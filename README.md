@@ -1,6 +1,6 @@
 # Gestore di Libreria Personale
 
-Traccia: https://docs.google.com/document/d/1s6NYRgh_kZRcw7me8sZH1V8Yo75dlVyaIMZgaAIRp1w/edit?tab=t.0#heading=h.crkmgrqoootx
+**Traccia**: https://docs.google.com/document/d/1s6NYRgh_kZRcw7me8sZH1V8Yo75dlVyaIMZgaAIRp1w/edit?tab=t.0#heading=h.crkmgrqoootx
 
 **Overview**
 
