@@ -1,0 +1,82 @@
+[
+  {
+    "titolo": "It",
+    "autore": "Stephen King",
+    "isbn": "9781501142970",
+    "genere": "Horror",
+    "valutazione": 5,
+    "statoLettura": "Letto"
+  },
+  {
+    "titolo": "Breve storia del tempo",
+    "autore": "Stephen Hawking",
+    "isbn": "9780553380163",
+    "genere": "Divulgazione scientifica",
+    "valutazione": 4,
+    "statoLettura": "Da leggere"
+  },
+  {
+    "titolo": "Lo strano caso del dottor Jekyll e del signor Hyde",
+    "autore": "Robert Louis Stevenson",
+    "isbn": "9780141439730",
+    "genere": "Horror",
+    "valutazione": 4,
+    "statoLettura": "In lettura"
+  },
+  {
+    "titolo": "Hunger Games",
+    "autore": "Suzanne Collins",
+    "isbn": "9780439023481",
+    "genere": "Distopia",
+    "valutazione": 5,
+    "statoLettura": "Letto"
+  },
+  {
+    "titolo": "Il Maestro e Margherita",
+    "autore": "Michail Bulgakov",
+    "isbn": "9780141180144",
+    "genere": "Fantastico",
+    "valutazione": 5,
+    "statoLettura": "Letto"
+  },
+  {
+    "titolo": "Norwegian Wood",
+    "autore": "Haruki Murakami",
+    "isbn": "9780375704024",
+    "genere": "Drammatico",
+    "valutazione": 4,
+    "statoLettura": "Da leggere"
+  },
+  {
+    "titolo": "Fahrenheit 451",
+    "autore": "Ray Bradbury",
+    "isbn": "9781451673319",
+    "genere": "Distopia",
+    "valutazione": 5,
+    "statoLettura": "Letto"
+  },
+  {
+    "titolo": "Il Signore delle Mosche",
+    "autore": "William Golding",
+    "isbn": "9780399501487",
+    "genere": "Classico",
+    "valutazione": 4,
+    "statoLettura": "In lettura"
+  },
+  {
+    "titolo": "Il cacciatore di aquiloni",
+    "autore": "Khaled Hosseini",
+    "isbn": "9781594631931",
+    "genere": "Drammatico",
+    "valutazione": 5,
+    "statoLettura": "Letto"
+  },
+  {
+    "titolo": "La ragazza con l'orecchino di perla",
+    "autore": "Tracy Chevalier",
+    "isbn": "9780452282155",
+    "genere": "Storico",
+    "valutazione": 4,
+    "statoLettura": "Da leggere"
+  }
+]
